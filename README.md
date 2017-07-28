@@ -1,4 +1,4 @@
-**JMaps**<br />
+# JMaps<br />
 A small Java navigation app using the google maps api for your convenience.<br />
 <br />
 <br />
